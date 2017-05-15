@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    leaflet-responsive-popup-rails (0.2.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  leaflet-responsive-popup-rails!
+
+BUNDLED WITH
+   1.13.7
